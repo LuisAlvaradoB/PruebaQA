@@ -1,0 +1,24 @@
+{
+  "name": "pruebaqa",
+  "version": "1.0.0",
+  "description": "Prueba de QA para Equifax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-open": "cypress open"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisAlvaradoB/PruebaQA.git"
+  },
+  "author": "Luis Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisAlvaradoB/PruebaQA/issues"
+  },
+  "homepage": "https://github.com/LuisAlvaradoB/PruebaQA#readme",
+  "dependencies": {
+    "cypress": "^12.4.1"
+  }
+}
